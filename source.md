@@ -21,7 +21,7 @@
 - **Data:27/04/20226**  
 - **Fonte originale:**  
 - **URL: https://martellasindaco.it/**
-- **Documento collegato nel repository: /programmi-ufficiali**  
+- **Documento collegato nel repository: [Programmi-ufficiali] (https://github.com/gigicogo/Elezioni-Venezia-2026/)**  
 - **Stato:** (verificato)  
 - **Tipo di documento: Sito web**  
 - **Note:**  
@@ -30,7 +30,7 @@
 - **Data:27/04/20226**  
 - **Fonte originale:**  
 - **URL: https://ora-italia.it/boldrin-sindaco/**
-- **Documento collegato nel repository: /programmi-ufficiali**  
+- **Documento collegato nel repository: [Programmi-ufficiali] (https://github.com/gigicogo/Elezioni-Venezia-2026/)**  
 - **Stato:** (verificato)  
 - **Tipo di documento: Sito web**  
 - **Note:**  
@@ -40,7 +40,7 @@
 - **Data:27/04/20226**  
 - **Fonte originale:**  
 - **URL: https://cittavive.it/**
-- **Documento collegato nel repository: /programmi-ufficiali**  
+- **Documento collegato nel repository: [Programmi-ufficiali] (https://github.com/gigicogo/Elezioni-Venezia-2026/)**  
 - **Stato:** (verificato)  
 - **Tipo di documento: Sito web**  
 - **Note:**  
@@ -50,7 +50,6 @@
 - **Data:27/04/20226**  
 - **Fonte originale:**  
 - **URL: https://www.elezioni.venezia.it/**
-- **Documento collegato nel repository:**  
 - **Stato:** (verificato)  
 - **Tipo di documento: Sito web**  
 - **Note: Un bel progetto di Emanuele Dal Carlo**  
