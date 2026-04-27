@@ -1,8 +1,10 @@
 # Programmi ufficiali
 
 Venturini
-Martella - scaricabile in PDF: https://martellasindaco.it/wp-content/uploads/2026/04/programma_martella_2026.pdf 
+Martella - scaricabile in PDF: https://martellasindaco.it/wp-content/uploads/2026/04/programma_martella_2026.pdf  
+
 Vernier - consultabile sul sito ma non scaricabile come file
+
 Boldrin - consultabile sul sito ma non scaricabile come file
 
 # Nota metodologica
