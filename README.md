@@ -7,3 +7,4 @@ relativi alle elezioni comunali di Venezia 2026.
 
 - `2026 Aprile 27 - ChatGPT_deep-research-report`: sintesi dei programma e delle dichiarazioni.
 - `2026 Aprile 27 - Gemini_deep-research-report`: sintesi dei programma e delle dichiarazioni.
+- `2026 Aprile 27 - Perplexity_deep-research-report`: sintesi dei programma e delle dichiarazioni.
