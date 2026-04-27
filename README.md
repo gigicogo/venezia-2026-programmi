@@ -5,5 +5,7 @@ relativi alle elezioni comunali di Venezia 2026.
 
 ## Struttura
 Gli elementi di base sono frutto di una Deep Research effettuata con i principali chatbot utilizzando un prompt basico descritto nel README.md presente nella cartella dedicata.
+
 Sono stati inseriti poi i programmi ufficiali, laddove presenti.
-elteriori contenuti sono stati ricavati attraverso il caricamento di comunicati stampa e articoli di giornale, sia locali che nazionali.
+
+Ulteriori contenuti sono stati ricavati attraverso il caricamento di comunicati stampa e articoli di giornale, sia locali che nazionali.
