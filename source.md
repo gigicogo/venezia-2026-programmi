@@ -1,6 +1,20 @@
-Venturini Simone: https://simoneventurinisindaco.it/ - Data di ultima rilevazione 27/04/20226
+### ### Venturini Simone
+- **Data:27/04/20226**  
+- **Fonte originale:**  
+- **URL: https://simoneventurinisindaco.it/**  
+- **Tipo di documento: Sito web**  
+- **Note:**  
 
-Martella Andrea: https://martellasindaco.it/ - Data di ultima rilevazione 27/04/20226
+### ### Martella Andrea
+- **Data:27/04/20226**  
+- **Fonte originale:**  
+- **URL: https://martellasindaco.it/**  
+- **Tipo di documento: Sito web**  
+- **Note:**  
+
+
+
+
 
 Boldrin Michele: https://ora-italia.it/boldrin-sindaco/ - Data di ultima rilevazione 27/04/20226
 
