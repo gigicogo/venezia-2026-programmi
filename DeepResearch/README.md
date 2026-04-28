@@ -28,3 +28,4 @@ Dovrai produrre il documento in formato markdown e, nel caso tu sia in grado, pr
 
 Poi si è optato per una raccolta di link con le potenzialità di NoteBookLM
 - `2026 Aprile 28 - Copilot_Temi caldi della città_report': esiti della ricerca basata su fonti istituzionali e riassunti disponibili in rete.
+- `2026 Aprile 28 - NotebookLMFree_Temi caldi della città_report': esiti della ricerca basata su fonti istituzionali e riassunti disponibili in rete.
