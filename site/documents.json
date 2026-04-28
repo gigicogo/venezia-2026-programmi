@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Esempio - Programma mobilità",
+    "source": "Programmi ufficiali",
+    "text": "Questo è un esempio iniziale. Qui metteremo i testi dei programmi elettorali, dei comunicati stampa e degli articoli relativi alle elezioni amministrative di Venezia 2026."
+  },
+  {
+    "title": "Esempio - Tema casa",
+    "source": "Articoli e comunicati",
+    "text": "Questo secondo esempio serve solo per testare la ricerca. In seguito sostituiremo questi contenuti con documenti veri divisi in testi più piccoli e ordinati."
+  },
+  {
+    "title": "Esempio - Tema turismo",
+    "source": "Base documentale GitHub",
+    "text": "La pagina di ricerca leggerà questo file e mostrerà i risultati quando scrivi una parola nella casella di ricerca."
+  }
+]
