@@ -9,3 +9,4 @@ Gli elementi di base sono frutto di una Deep Research effettuata con i principal
 Sono stati inseriti poi i programmi ufficiali, laddove presenti.
 
 Ulteriori contenuti sono stati ricavati attraverso il caricamento di comunicati stampa e articoli di giornale, sia locali che nazionali.
+In particolare, gli articoli dei giornali, salvati in PDF, sono relativi solo all'ultimo mese di campagna elettorale
