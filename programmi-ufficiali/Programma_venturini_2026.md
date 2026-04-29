@@ -21,9 +21,9 @@ particolarismi e vittima del "partito del no", che sarebbe così condannata ad u
 economico e sociale.
 La scelta che abbiamo di fronte è inequivocabile: assumersi la responsabilità di continuare a far crescere
 la Città o arrendersi al declino.
-![image](images/pdf_image_1_1.jpeg)
 
-supportare attivamente la nuova Autorità per la Laguna per garantire risposte rapide, snellire i
+
+Supportare attivamente la nuova Autorità per la Laguna per garantire risposte rapide, snellire i
 processi autorizzativi, superare i blocchi burocratici storici e unificare sotto un'unica regia le decisioni
 su salvaguardia ambientale e sviluppo; (ii) assicurare la manutenzione costante dei canali e
 PUNTI DEL PROGRAMMA
