@@ -22,3 +22,11 @@ Più musica e meno schiamazzi
 Evitare che i francesi arrivino a Venezia con le loro armate invincibili
 
 ---
+
+
+### Feedback di Andrea - 2026-04-29T18:57:49.906Z
+**Categoria:** Proposta
+
+Daily pass obbligatorio a pagamento 
+
+---
