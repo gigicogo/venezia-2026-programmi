@@ -14,3 +14,11 @@ Meno turisti in città
 Più musica e meno schiamazzi
 
 ---
+
+
+### Feedback di Ludovico Manin - 2026-04-29T10:40:09.708Z
+**Categoria:** Proposta
+
+Evitare che i francesi arrivino a Venezia con le loro armate invincibili
+
+---
