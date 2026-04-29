@@ -33,16 +33,13 @@ interfacciarsi con forza con lo Stato per revisionare urgentemente il "Protocoll
 ostacolo principale all'operatività del Porto, per sveltire in modo decisivo gli scavi e le bonifiche; (iii)
 3. CASA - Residenzialità, Urbanistica e Territorio
 rilanciare la Stazione Marittima come polo internazionale d'eccellenza per crociere di lusso medio­
-4.
-SOCIALE - Giovani e Famiglie, Invecchiamento Attivo, Inclusione e Sport
+4. SOCIALE - Giovani e Famiglie, Invecchiamento Attivo, Inclusione e Sport
 piccole e mega-yacht, offrendo servizi di refitting e di assistenza cantieristica di alto livello durante
-5.
-TRASPORTI - Mobilità Intelligente, Trasporto Acqueo e Parcheggi
+5. TRASPORTI - Mobilità Intelligente, Trasporto Acqueo e Parcheggi
 tutto l'anno.
 6. SANITÀ E BENESSERE - Una Rete di Cura Integrata e Prossima ai Cittadini
 D. Logistica Acquea e Navigazione Interna - Riconoscere la navigazione interna e la logistica come
-7.
-TURISMO - Turismo di Qualità, Governo dei Flussi e Nuovo Equilibrio
+7. TURISMO - Turismo di Qualità, Governo dei Flussi e Nuovo Equilibrio
 motori fondamentali per la diversificazione economica e il rilancio sociale della Città: (i) garantire
 8. CULTURA - Musica, Arte e Cultura: Motore di Sviluppo
 un'unica regia per la gestione degli scavi dei rii, la manutenzione dei canali e la tutela ambientale
@@ -54,6 +51,7 @@ orarie più critiche, attraverso un dialogo strettissimo e strutturale con gli o
 settore; (iii) accelerare la riorganizzazione del waterfront Santa Marta, Scomenzera e Marittima, con
 lo scopo di riordinare complessivamente gli spazi operativi e logistici per garantire agli operatori
 condizioni di lavoro adeguate e moderne; (iv) individuare e mappare stabilmente nuovi spazi di
+
 1. LAVORO - Investimenti e Sviluppo Economico
 A. Venice lnvestment Hub - Valorizzare la straordinaria attrattività infrastrutturale, accademica,
 carico/scarico merci in sinergia con gli operatori per favorire la regolarità dei servizi e rÖ1rr►la
@@ -77,6 +75,7 @@ città pilota italiana del nuovo strumento "EU lnc." per consentire la fondazion
 politica tra l'Amministrazione Comunale, la Regione e il Governo nazionale - per ottenere una
 ore.
 semplificazione delle procedure e del reperimento dei fondi per bonifiche e nuovi insediamenti; (ii)
+
 B. Sviluppo Industriale, Polo Aeronavale e ZLS - Consolidare la vocazione tecnologica e industriale
 valorizzare la straordinaria intermodalità logistica e le preziose reti impiantistiche esistenti per
 del territorio attraverso un dialogo strutturale e un'intensificazione delle relazioni istituzionali con le
