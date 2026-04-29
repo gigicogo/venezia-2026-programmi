@@ -31,31 +31,44 @@ la Città o arrendersi al declino.
 Supportare attivamente la nuova Autorità per la Laguna per garantire risposte rapide, snellire i
 processi autorizzativi, superare i blocchi burocratici storici e unificare sotto un'unica regia le decisioni
 su salvaguardia ambientale e sviluppo; (ii) assicurare la manutenzione costante dei canali e
-PUNTI DEL PROGRAMMA
+PUNTI DEL PROGRAMMA:
+
 1. LAVORO - Investimenti e Sviluppo Economico
 interfacciarsi con forza con lo Stato per revisionare urgentemente il "Protocollo Fanghi", oggi
+
 2. SICUREZZA - Sicurezza Integrata e Decoro Urbano
 ostacolo principale all'operatività del Porto, per sveltire in modo decisivo gli scavi e le bonifiche; (iii)
+
 3. CASA - Residenzialità, Urbanistica e Territorio
 rilanciare la Stazione Marittima come polo internazionale d'eccellenza per crociere di lusso medio­
+
 4. SOCIALE - Giovani e Famiglie, Invecchiamento Attivo, Inclusione e Sport
 piccole e mega-yacht, offrendo servizi di refitting e di assistenza cantieristica di alto livello durante
+
 5. TRASPORTI - Mobilità Intelligente, Trasporto Acqueo e Parcheggi
 tutto l'anno.
+
 6. SANITÀ E BENESSERE - Una Rete di Cura Integrata e Prossima ai Cittadini
 D. Logistica Acquea e Navigazione Interna - Riconoscere la navigazione interna e la logistica come
+
 7. TURISMO - Turismo di Qualità, Governo dei Flussi e Nuovo Equilibrio
 motori fondamentali per la diversificazione economica e il rilancio sociale della Città: (i) garantire
+
 8. CULTURA - Musica, Arte e Cultura: Motore di Sviluppo
 un'unica regia per la gestione degli scavi dei rii, la manutenzione dei canali e la tutela ambientale
+
 9. AMBIENTE - Parchi, Laguna e Sostenibilità
 della laguna; (ii) riorganizzare il sistema di mobilità acquea per decongestionare le zone e le fasce
-10.VENEZIA SPECIALE - Riforma della Governance e Autonomia
+
+10. VENEZIA SPECIALE - Riforma della Governance e Autonomia
 orarie più critiche, attraverso un dialogo strettissimo e strutturale con gli operatori e le aziende del
-11.MUNICIPALITÀ E TERRITORIO - Ascoltare le comunità e curare il territorio
+
+11. MUNICIPALITÀ E TERRITORIO - Ascoltare le comunità e curare il territorio
 settore; (iii) accelerare la riorganizzazione del waterfront Santa Marta, Scomenzera e Marittima, con
 lo scopo di riordinare complessivamente gli spazi operativi e logistici per garantire agli operatori
 condizioni di lavoro adeguate e moderne; (iv) individuare e mappare stabilmente nuovi spazi di
+
+______________________________________________
 
 1. LAVORO - Investimenti e Sviluppo Economico
 A. Venice lnvestment Hub - Valorizzare la straordinaria attrattività infrastrutturale, accademica,
@@ -120,6 +133,10 @@ residenti nella fruizione e nella cura degli spazi comuni, trasformando la prese
 responsabilità territoriale, (iv) promuovere la creazione di un Agenzia per la sicurezza partecipata
 del tessuto sociale ed economico della Città.
 per coinvolgere le comunità e coordinare le attività di monitoraggio e prevenzione delle situazioni
+
+
+______________________________________________
+
 2. SICUREZZA - Sicurezza Integrata e Decoro Urbano
 di degrado
 A. Polizia di Prossimità - Promuovere un'azione decisa per sradicare le zone di illegalità e garantire
@@ -146,6 +163,10 @@ un'operazione straordinaria, in stretta sinergia con Questura e Carabinieri, mir
 ►
 chiudere definitivamente quegli esercizi commerciali (minimarket o bar di dubbia gestione), che
 rischiano di fungere da ricettacolo di illegalità; (iv) rafforzare il Nucleo Edilizia Urbana della Polizia
+
+
+______________________________________________
+
 3. CASA - Residenzialità, Urbanistica e Territorio
 A. Patto per l'Abitare - Proseguire nell'attività di recupero e assegnazione del patrimonio residenziale
 Locale al fine di costituire una vera e propria task-force per il controllo del sovraffollamento negli
@@ -203,6 +224,11 @@ valorizzare i professionisti e le università locali; (iv) incrementare, arricch
 ai lavoratori da remoto che si impegnano a risiedere stabilmente in città per almeno un anno; (iii)
 giochi per bambini e le aree cani nel tessuto urbano.
 attivare una piattaforma digitale integrata per mettere a sistema edifici pubblici e spazi privati
+
+
+______________________________________________
+
+
 4. SOCIALE - Giovani e Famiglie, Invecchiamento Attivo, Inclusione e Sport
 sottoutilizzati, trasformandoli in una rete diffusa di aule studio, biblioteche e spazi di co-working
 accessibili e condivisi; (iv) dare piena attuazione alla realizzazione di un polo di ricerca presso
@@ -340,12 +366,21 @@ assicurare la costante e puntuale pulizia delle aree giochi e dei parchi, attiva
 lo sport di base come presidio educativo e sociale.
 politiche di cittadinanza attiva che coinvolgano le associazioni e le reti di controllo di vicinato nella
 cura condivisa degli spazi comuni; (iv) programmare l'ammodernamento e la messa in sicurezza
+
+
+______________________________________________
+
+
 5. TRASPORTI - Mobilità Intelligente, Trasporto Acqueo e Parcheggi
 dei plessi scolastici, anche attraverso la radicale riqualificazione e ricostruzione degli edifici ormai
 A. Accesso Automobilistico alla Città - Rivoluzionare l'accesso al centro storico per restituire spazio
 obsoleti e fortemente energivori.
 ai cittadini e potenziare l'accoglienza attraverso: (i) la trasformazione dei Parcheggi Sant' Andrea e
 Comunale di Piazzale Roma destinandoli esclusivamente ai residenti; (ii) la realizzazione, di
+
+
+______________________________________________
+
 6. SANITÀ E BENESSERE - Una rete di cura integrata e prossima ai cittadini
 A. Assistenza di Prossimità, Case della Comunità e Prevenzione - Avvicinare i servizi sanitari alla
 concerto con il Porto, di un nuovo Parcheggio Multipiano in zona Scomenzera - Marittima destinato
@@ -402,6 +437,10 @@ di Lido e Pellestrina.
 turistica per migliorare l'immagine e la vivibilità di Venezia.
 D. Piattaforma Digitale - Sviluppare un ecosistema digitale integrato che riunisca l'intera offerta
 commerciale, ristorativa, culturale ed esperienziale del territorio metropolitano, al fine di: (i) favorire
+
+
+______________________________________________
+
 7. TURISMO - Turismo di Qualità, Governo dei Flussi e Nuovo Equilibrio
 A. Evoluzione del Contributo d'Accesso - Evolvere l'attuale strumento in una più efficace leva di
 la redistribuzione attiva dei flussi turistici tra la Città Storica, Mestre e le altre Municipalità,
@@ -828,4 +867,4 @@ per migliorare la viabilità e rendere il traffico più scorrevole; (xvi) PARCHI
 riferimento sicuro e accessibile per tutte le famiglie del territorio; (xvii) PIÙ SPAZI PER I NOSTRI
 AMICI ANIMALI - aumentare come preciso obiettivo il numero delle aree cani nel tessuto urbano,
 provvedendo parallelamente all1ammodernamento e alla cura di quelle già esistenti.
-20
+
