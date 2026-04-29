@@ -1,6 +1,7 @@
 ELEZIONI AMMINISTRATIVE
 Comune di Venezia
 24 - 25 Maggio 2026
+
 # - PROGRAMMA AMMINISTRATIVO -
 SIMONE VENTURINI SINDACO
 VISIONE - Venezia 2026: Avanti Insieme per Costruire il Futuro
