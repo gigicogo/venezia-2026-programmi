@@ -2,9 +2,6 @@
 
 **24**  **-**  **25**  **MAGGIO**  **2026**
 
-  
-
-
 
 _La_  **forza**
 
@@ -12,61 +9,6 @@ _di_  **cambiare**
 
 **PROGRAMMA**  **2026–2031**
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 Un nuovo progetto, una nuova speranza sono possibili e necessari per la nostra città minac-ciata come poche altre dal cambiamento climatico, dallo scollamento delle relazioni umane, da un’insicurezza diffusa, che genera paura, dalla carenza di adeguate opportunità di lavoro, di studio, di cura, di assistenza, di alloggio. Rigenerare la città, restituirle vitalità, fiducia e sicurezza,  sono gli obiettivi che,  come  forze civiche e progressiste,  riformiste e ambientaliste, poniamo al centro della nostra proposta di governo per il Comune di Venezia, a partire dalla condivisione di valori e temi strategici.
 
@@ -76,9 +18,7 @@ In  questa  irrinunciabile  cornice,  Venezia  può  e  deve  rappresentare  un 
 
 Venezia può diventare un modello anche dal punto di vista dell’evoluzione amministrativa attraverso il pieno riconoscimento costituzionale di uno Statuto Speciale e, quindi, attuando una  piena  autonomia  e  un  vero  autogoverno,  affinché  Venezia  sia,  nei  fatti,  interesse  non  solo nazionale ma europeo in conformità alle prese di posizione già assunte dall’intera coalizione sull’argomento.
 
-Uniti,  come  forze  civiche  e  politiche,  su  tale  obiettivo,  ci  appelliamo  alle  altre  forze  vive  del-la  città  e  a  tutte  le  persone  di  buona  volontà  per  elaborare  insieme  un  programma  di  piena rigenerazione  socioeconomica,  urbana  e  ambientale,  capace  di  ridare  prospettiva  vitale alla
-
-città,  di  rispondere  ai  nuovi  bisogni  sociali,  a  una  più  esigente  ed  estesa  idea  di  sanità  pubblica, a  un  nuovo  concetto  di  mobilità  e  fruizione  degli  spazi  urbani.  Una  rigenerazione,  dunque,  che investa più livelli e tenga conto dei profondi mutamenti economici e sociali in corso come dei cambiamenti climatici,  nei loro aspetti globali e in quelli locali,  a  Venezia,  per sua natura,  pro-fondamente  intrecciati.
+Uniti,  come  forze  civiche  e  politiche,  su  tale  obiettivo,  ci  appelliamo  alle  altre  forze  vive  del-la  città  e  a  tutte  le  persone  di  buona  volontà  per  elaborare  insieme  un  programma  di  piena rigenerazione  socioeconomica,  urbana  e  ambientale,  capace  di  ridare  prospettiva  vitale alla città,  di  rispondere  ai  nuovi  bisogni  sociali,  a  una  più  esigente  ed  estesa  idea  di  sanità  pubblica, a  un  nuovo  concetto  di  mobilità  e  fruizione  degli  spazi  urbani.  Una  rigenerazione,  dunque,  che investa più livelli e tenga conto dei profondi mutamenti economici e sociali in corso come dei cambiamenti climatici,  nei loro aspetti globali e in quelli locali,  a  Venezia,  per sua natura,  pro-fondamente  intrecciati.
 
 Il progetto, che è di radicale cambiamento delle politiche fin qui perseguite dall’amministrazio-ne uscente,  si riconosce nei  valori della Costituzione italiana (democrazia,  solidarietà,  antifasci-smo,  lavoro,  pace,  diritti individuali,  libertà di culto,  tutela delle minoranze,  libertà della cultura e della ricerca scientifica, tutela del patrimonio storico, equità generazionale e di genere, so-stenibilità  ambientale,  laicità)  e  dell’Unione  europea  (dignità  umana,  libertà,  uguaglianza  sociale, stato di diritto, parità di genere, inclusività per la comunità LGBT, diritti umani), con l’impegno a costruire relazioni nazionali e internazionali per consolidare tali valori e, al contempo, resti-tuendo  a  Venezia  il  rango  di  città  che,  per  la  sua  vicenda  millenaria  e  il  ruolo  che  ha  svolto  nella storia, si staglia come pochissime altre sulla scena globale.
 
